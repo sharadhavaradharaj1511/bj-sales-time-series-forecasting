@@ -28,4 +28,4 @@ Performed time series analysis and forecasting on BJ Sales data using R and the 
 Collaborated on time series analysis, trend removal, ACF interpretation, regression modeling, and forecasting evaluation using R.
 
 ## Project File
-📄 [View Project Report](./Final_Project_1.pdf)
+📄 [View Project Report]([./Final_Project_1.pdf](https://github.com/sharadhavaradharaj1511/bj-sales-time-series-forecasting/blob/main/Final_Project_1.pdf))
